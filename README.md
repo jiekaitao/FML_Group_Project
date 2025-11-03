@@ -1,3 +1,10 @@
+UF EEL5840 Top Scoring Model!
+
+Easy accuracy: 99.12%
+Hard accuracy: 92.99%
+
+Original README.txt provided for the graders:
+
 PACKAGES:
 Given the test environment, there are no additional required packages
 USAGE:
