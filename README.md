@@ -1,4 +1,4 @@
-UF EEL5840 Top Scoring Model!
+UF EEL5840 Spring 2024 Highest Scoring Model!
 
 Easy accuracy: 99.12%
 Hard accuracy: 92.99%
